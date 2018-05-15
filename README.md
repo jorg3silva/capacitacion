@@ -1,3 +1,3 @@
 # capacitacion1
-capacitacion git
+capacitacion gitasdasda
 este es un cambio12
